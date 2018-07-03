@@ -3,7 +3,7 @@ module.exports = {
      * Your bot token
      * @type {string}
      */
-    token: "(Bot) AAAAAAAAAAAAAAAAAAaaaaaaaaaa.g3gf35gf3df3",
+    token: "(Bot) "NDYzNTQwMDQ2NjgzOTYzNDAy.Dhx40w._UZC6DKJGe-4x6-2KRmOk9j4fiY",
 
     /**
      * Owners of the bot
@@ -27,7 +27,7 @@ module.exports = {
      * Bot's default prefix.
      * @type {string}
      */
-    prefix: "AAAAAAAaa",
+    prefix: "\\",
 
     /** 
      * IP address to host the webserver on.
@@ -62,8 +62,8 @@ module.exports = {
      * The client ID and client secret. These are obtainable from the page where you got the token.
      * @type {string}
      */
-    clientID: "111111111111111111",
-    clientSecret: "9a9a99e89a8e92dg4df6s6s6",
+    clientID: "463540046683963402",
+    clientSecret: "2k3k-ztBw7RR3pRIskdOppV5MdjKhscX",
 
     /**
      * An option for routing DMs to the owners
